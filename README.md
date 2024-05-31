@@ -3,6 +3,7 @@ Gestion de vente de vetements
 
 ## UTILISATIONS 
 
+- /!\ Le projet ce trouve sur la branche Master et non main (Pas eu le temps de merge)
 - 1 Mettre à jour le fichier Hibernate.properties
 - 2 Selectionner le fichier main
 - 3 Puis lancer la console
